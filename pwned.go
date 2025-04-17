@@ -19,7 +19,7 @@ func PwnedPasswordsURL(prefix string) string {
 
 // DefaultUserAgent is the User-Agent header sent to the Pwned Passwords API if
 // it has not been explicitly set.
-var DefaultUserAgent = "https://github.com/powerbase/hibp"
+var DefaultUserAgent = "https://github.com/skorpland/hibp"
 
 // PwnedCache is the interface with which you can cache responses from the
 // Pwned Passwords API.

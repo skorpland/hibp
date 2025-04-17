@@ -15,7 +15,7 @@ Example:
 
 ```go
 import (
-	"github.com/powerbase/hibp"
+	"github.com/skorpland/hibp"
 )
 
 func main() {
