@@ -455,7 +455,7 @@ func TestErrorUnexpectedResponse(t *testing.T) {
 
 func TestEndToEnd(t *testing.T) {
 	pwnedClient := PwnedClient{
-		UserAgent: "tests for https://github.com/supabase/hibp",
+		UserAgent: "tests for https://github.com/powerbase/hibp",
 	}
 
 	res, err := pwnedClient.Check(context.Background(), "password1")

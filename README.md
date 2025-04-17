@@ -15,7 +15,7 @@ Example:
 
 ```go
 import (
-	"github.com/supabase/hibp"
+	"github.com/powerbase/hibp"
 )
 
 func main() {
@@ -43,6 +43,4 @@ func main() {
 ```
 
 ## License
-
-Maintained by the [Auth](https://supabase.com/docs/guides/auth) team at
-[Supabase](https://supabase.com). Licensed under the MIT License.
+Licensed under the MIT License.
